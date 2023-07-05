@@ -1,18 +1,20 @@
-## Getting Started
+# Conversor de Monedas y Temperaturas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este es un programa en Java que te permite convertir entre diferentes monedas y realizar conversiones de temperatura. Puedes seleccionar las opciones deseadas y realizar las conversiones de manera fácil y rápida.
 
-## Folder Structure
+## Características
 
-The workspace contains two folders by default, where:
+- Conversión de monedas: puedes convertir colones costarricenses a dólares, euros, libras esterlinas, yenes japoneses y wones surcoreanos.
+- Conversión de temperaturas: puedes convertir grados Celsius a grados Fahrenheit y viceversa.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Requisitos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java Development Kit (JDK) instalado en tu sistema.
+- Un entorno de desarrollo Java, como Eclipse o IntelliJ, o puedes compilar y ejecutar el código manualmente desde la línea de comandos.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Instrucciones de Uso
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Ejecuta el programa.
+2. Selecciona la opción deseada entre "Convertir Monedas" y "Conversor de Temperatura".
+3. Sigue las instrucciones y proporciona los valores requeridos para realizar las conversiones.
+4. Obtendrás el resultado de la conversión en una ventana emergente.
